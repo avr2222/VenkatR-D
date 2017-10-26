@@ -5,3 +5,5 @@
 /BarCodeReader/BarCodeReader/obj/Debug
 /BarCodeReader/.vs/BarCodeReader/v15/Server/sqlite3
 /BarCodeReader/.vs/BarCodeReader/v15
+*.dll
+/BarCodeReader/BarCodeReader/bin/Debug
